@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Rudrik\GRADLE\StatusQuotes\app\libs\com-mqnvnfx-itwsdvr70223.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7d000b47f30541f811cd9bca77876a64430f7202">
+        <dex dex="F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\pre-dexed\debug\com-mqnvnfx-itwsdvr70223-3b275af0b955faaf9cc25e7f4df1ae059ffd5091.jar" />
+    </item>
+
+</items>

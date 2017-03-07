@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "23.0.0"
+    defaultConfig {
+        applicationId "com.Rudrik.StatusQuotes"
+        minSdkVersion 15
+        targetSdkVersion 22
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles 'proguardfile.txt', 'proguard-project.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+   compile files('libs/com-mqnvnfx-itwsdvr70223.jar')
+    compile 'com.android.support:appcompat-v7:22.0.0'
+    compile 'com.google.android.gms:play-services:7.5.0'
+    compile files('libs/myjar.jar')
+    compile files('libs/myjson-1.5.jar')
+}

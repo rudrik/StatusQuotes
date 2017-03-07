@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_daddy">About Daddy</string>
+    <string name="about_me">AboutMe</string>
+    <string name="advicing">Advicing</string>
+    <string name="april_fool">April Fool</string>
+    <string name="baby">Baby</string>
+    <string name="boss_day">Boss Day</string>
+    <string name="break_up">Break Up</string>
+    <string name="christmas">Christmas</string>
+    <string name="condolence">Condolence</string>
+    <string name="diwali">Diwali</string>
+    <string name="easter">Easter</string>
+    <string name="eid">Eid</string>
+    <string name="engaging">Engaging</string>
+    <string name="facts">Facts</string>
+    <string name="friendship">FriendShip</string>
+    <string name="attitude">Attitude</string>
+    <string name="get_well_soon">Get Well Soon</string>
+    <string name="miscellaneous">Miscellaneous</string>
+
+    <string name="good_morning">Good Morning</string>
+    <string name="good_night">Good Night</string>
+    <string name="greeting_hello">Greeting Hello</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="holi_wishes">Holi Wishes</string>
+    <string name="humor">Humor</string>
+    <string name="i_love_you">I Love You</string>
+    <string name="ignorance">Ignorance</string>
+    <string name="independence_day">Independence Day</string>
+    <string name="irony">Irony</string>
+    <string name="kid">Kid</string>
+    <string name="couple">Couple</string>
+    <string name="kissing">Kissing</string>
+    <string name="love">Love</string>
+    <string name="move_on">Move On</string>
+    <string name="music">Music</string>
+    <string name="national_independence">National Independence</string>
+    <string name="naughty">Naughty</string>
+    <string name="observation">Observations</string>
+    <string name="philosophy">Philosophy</string>
+    <string name="praise">Praise</string>
+    <string name="relationship">RelationShips</string>
+    <string name="sorry">Sorry</string>
+    <string name="student_time">Student Time</string>
+    <string name="tease_girls">Tease Girls</string>
+    <string name="how_mch_i_love_you">How Much I Love You</string>
+    <string name="u_and_me">U And Me</string>
+    <string name="valentine">Valentine</string>
+    <string name="virginity">Virginity</string>
+    <string name="wedding_wishes">Wedding Wishes</string>
+    <string name="wisdom">Wisdom</string>
+    <string name="reality_facts">Reality Facts</string>
+    <string name="religious">Religious</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/titleLayout"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/back"
+                android:padding="2.0dip"
+    android:elevation="5dp">
+
+    <TextView
+            android:id="@+id/heading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="5.0dip"
+            android:singleLine="true"
+            android:text="Menu"
+            android:textColor="@color/black"
+            android:textSize="20.0sp"
+            android:textStyle="bold"/>
+
+    <!--<ImageView-->
+            <!--android:id="@+id/menuRightImgBtn4"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="5.0dip"-->
+            <!--android:layout_toLeftOf="@+id/menuRightImgBtn1"-->
+            <!--android:visibility="gone"/>-->
+
+    <!--<ImageView-->
+            <!--android:id="@+id/menuRightImgBtn1"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="5.0dip"-->
+            <!--android:layout_toLeftOf="@+id/menuRightImgBtn2"-->
+            <!--android:visibility="gone"/>-->
+
+    <!--<ImageView-->
+            <!--android:id="@+id/menuRightImgBtn2"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="5.0dip"-->
+            <!--android:layout_toLeftOf="@+id/menuRightImgBtn3"-->
+            <!--android:visibility="gone"/>-->
+
+    <!--<ImageView-->
+            <!--android:id="@+id/menuRightImgBtn3"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignParentRight="true"-->
+            <!--android:layout_marginLeft="5.0dip"-->
+            <!--android:visibility="visible"/>-->
+
+</RelativeLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Status Message Hub</string>
+
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <color name="Transperent">#00000000</color>
+    <color name="HeaderTitleTextColor">#323232</color>
+    <color name="HeaderSubTitleTextColor">#323232</color>
+    <color name="RegularTextColor">#ffffff</color>
+    <color name="TextBoxColor">#000000</color>
+    <color name="LoginBackColor">#ffdc5454</color>
+    <color name="LoginBackGround">#ff3538b4</color>
+    <color name="DateBackColor">#ffd6d6d6</color>
+    <color name="ListItemNormal">#00000000</color>
+    <color name="ButtonBackColor">#ffcdced2</color>
+    <color name="EditTextColor">#fff1f1f1</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#2E2E2E</color>
+    <color name="transparent">#00000000</color>
+    <color name="horizontal_wheel_bg">#0003</color>
+    <color name="blue_flavour">#81BEF7</color>
+
+    <!-- Activity titles -->
+    <string name="activity_location_found">Location Found</string>
+
+    <!-- Action Bar action items -->
+    <string name="action_search">Sarch</string>
+    <string name="action_location_found">Location Found</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_Like">Like</string>
+    <string name="action_share">Share</string>
+    <string name="action_share_FB">Share On FaceBook</string>
+    <string name="action_contacts">Contacts</string>
+    <string name="action_help">Help</string>
+    <string name="action_check_updates">Check for Updates</string>
+
+
+    <string name="statusview">statusview</string>
+    <string name="added_to_my_favourite">Added to my favourite.</string>
+    <string name="favlist">FAVLIST</string>
+    <string name="category">Category</string>
+    <string name="hold_on_status_for_sharing">Hold On Status For Sharing..!!!</string>
+    <string name="share">Share</string>
+    <string name="remove">Remove</string>
+    <string name="copy">Copy</string>
+    <string name="select">SELECT</string>
+    <string name="categories">Categories</string>
+    <string name="my_favourites">My Favourites</string>
+    <string name="random">Random</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="exit">Exit</string>
+    <string name="selected_fragment">SelectedFragment</string>
+    <string name="none">None</string>
+    <string name="are_you_sure_want_to_exit">Are you sure want to exit?</string>
+    <string name="random_status">Random Status</string>
+    <string name="status"> Status</string>
+    <string name="home">Home</string>
+    <string name="go_to_home_page">Go to Home Page</string>
+    <string name="go_ahead_amuse_me">Go Ahead Amuse Me!!</string>
+    <string name="random_it">Random it..!!</string>
+    <string name="go_to_my_fav">Go to My Fav</string>
+    <string name="randoms">R3@Technology123</string>
+    <string name="SharePreferenceName">StatusMessage</string>
+    <string name="MarketLocationLong"><![CDATA[>https://play.google.com/store/apps/details?id=com.Rudrik.StatusQuotes]]></string>
+    <string name="fb_share_success">Post is shared on your facebook time line.</string>
+
+</resources>

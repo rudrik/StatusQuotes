@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>@string/about_daddy</item>
+        <item>@string/about_me</item>
+        <item>@string/advicing</item>
+        <item>@string/april_fool</item>
+        <item>@string/attitude</item>
+        <item>@string/baby</item>
+        <item>@string/boss_day</item>
+        <item>@string/break_up</item>
+        <item>@string/christmas</item>
+        <item>@string/condolence</item>
+        <item>@string/couple</item>
+        <item>@string/diwali</item>
+        <item>@string/easter</item>
+        <item>@string/eid</item>
+        <item>@string/engaging</item>
+        <item>@string/facts</item>
+        <item>@string/friendship</item>
+        <item>@string/get_well_soon</item>
+        <item>@string/good_morning</item>
+        <item>@string/good_night</item>
+        <item>@string/greeting_hello</item>
+        <item>@string/happy_birthday</item>
+        <item>@string/holi_wishes</item>
+        <item>@string/humor</item>
+        <item>@string/i_love_you</item>
+        <item>@string/ignorance</item>
+        <item>@string/independence_day</item>
+        <item>@string/irony</item>
+        <item>@string/kid</item>
+        <item>@string/kissing</item>
+        <item>@string/love</item>
+        <item>@string/miscellaneous</item>
+        <item>@string/move_on</item>
+        <item>@string/music</item>
+        <item>@string/national_independence</item>
+        <item>@string/naughty</item>
+        <item>@string/observation</item>
+        <item>@string/philosophy</item>
+        <item>@string/praise</item>
+        <item>@string/reality_facts</item>
+        <item>@string/religious</item>
+        <item>@string/relationship</item>
+        <item>@string/sorry</item>
+        <item>@string/student_time</item>
+        <item>@string/tease_girls</item>
+        <item>@string/how_mch_i_love_you</item>
+        <item>@string/u_and_me</item>
+        <item>@string/valentine</item>
+        <item>@string/virginity</item>
+        <item>@string/wedding_wishes</item>
+        <item>@string/wisdom</item>
+    </string-array>
+</resources>

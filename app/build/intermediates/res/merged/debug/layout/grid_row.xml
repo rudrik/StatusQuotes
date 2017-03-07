@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/RelativeLayout1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+    <ImageView
+            android:id="@+id/item_image"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/icon">
+    </ImageView>
+
+    <TextView
+            android:id="@+id/item_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/item_image"
+            android:layout_toLeftOf="@+id/view4"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="Title"
+            android:textColor="@color/black"
+            android:typeface="serif"
+            android:textSize="18sp"
+            android:paddingBottom="5dp">
+    </TextView>
+
+    <View
+            android:id="@+id/view1"
+            android:layout_width="0.5dp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/item_text"
+            android:layout_alignLeft="@+id/item_image"
+            android:layout_alignTop="@+id/item_image"
+            android:alpha="0.05"
+            android:background="@color/blue_flavour"/>
+
+    <View
+            android:id="@+id/view2"
+            android:layout_width="wrap_content"
+            android:layout_height="0.5dp"
+            android:layout_toRightOf="@+id/view1"
+            android:alpha="0.05"
+            android:background="@color/blue_flavour"/>
+
+    <View
+            android:id="@+id/view4"
+            android:layout_width="0.5dp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/view3"
+            android:layout_alignParentTop="true"
+            android:layout_alignRight="@+id/view2"
+            android:alpha="0.05"
+            android:background="@color/blue_flavour"/>
+
+    <View
+            android:id="@+id/view3"
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:layout_alignRight="@+id/view4"
+            android:layout_below="@+id/item_text"
+            android:alpha="0.05"
+            android:background="@color/blue_flavour"/>
+
+</RelativeLayout><!-- From: file:/F:/Rudrik/GRADLE/StatusQuotes/app/src/main/res/layout/grid_row.xml -->
