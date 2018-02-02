@@ -13,7 +13,6 @@ import android.support.v7.app.ActionBarActivity;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
-import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.Toast;
 
@@ -23,15 +22,12 @@ import com.Rudrik.StatusQuotes.Fragment.CategoryFragment;
 import com.Rudrik.StatusQuotes.Fragment.MyFavFragment;
 import com.Rudrik.StatusQuotes.Fragment.RandomFragment;
 import com.Rudrik.StatusQuotes.R;
-
 import com.mqnvnfx.itwsdvr70223.AdConfig;
 import com.mqnvnfx.itwsdvr70223.AdListener;
 import com.mqnvnfx.itwsdvr70223.AdView;
-import com.mqnvnfx.itwsdvr70223.EulaListener;
-import com.mqnvnfx.itwsdvr70223.Main;
 
 
-public class MainActivity extends ActionBarActivity implements AdListener, EulaListener {
+public class MainActivity extends ActionBarActivity implements AdListener {
 
 
     private boolean IS_ADCACHED;
@@ -49,11 +45,10 @@ public class MainActivity extends ActionBarActivity implements AdListener, EulaL
     private String TITLE = "";
     private String CATEGORY;
 
-    private Main main; //Declare here
+
     private GridViewAdapter ADPT_GRID;
     AdView adView;
     private boolean enableCaching = true;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -68,6 +63,7 @@ public class MainActivity extends ActionBarActivity implements AdListener, EulaL
 //        AdConfig.setAdListener(this);
 //        AdConfig.setCachingEnabled(enableCaching);
 //        AdConfig.setTestMode(true);
+
         initialPageControls(savedInstanceState);
     }
 
@@ -195,24 +191,11 @@ public class MainActivity extends ActionBarActivity implements AdListener, EulaL
     @Override
     public void onBackPressed() {
         try {
-            main.showCachedAd(AdConfig.AdType.smartwall);   //This will display the ad but it wont close the app.
+//            main.showCachedAd(AdConfig.AdType.smartwall);   //This will display the ad but it wont close the app.
         } catch (Exception e) {
             // close the activity if ad is not available.
             finish();
         }
-    }
-
-    @Override
-    public void optinResult(boolean isAccepted) {
-        if (isAccepted)
-            showToast("You have accepted the EULA.");
-        else
-            showToast("You have not accepted the EULA.");
-    }
-
-    @Override
-    public void showingEula() {
-        showToast("EULA is showing.");
     }
 
     @Override
@@ -222,24 +205,28 @@ public class MainActivity extends ActionBarActivity implements AdListener, EulaL
     }
 
     @Override
-    public void onIntegrationError(String errorMessage) {
-        showToast("Integration Error: " + errorMessage);
+    public void onError(ErrorType errorType, String s) {
 
     }
 
     @Override
-    public void onAdError(String errorMessage) {
-        showToast("Ad error: " + errorMessage);
+    public void onAdLoading() {
+
     }
 
     @Override
-    public void noAdListener() {
-        showToast("No ad received");
+    public void onAdLoaded() {
+
     }
 
     @Override
-    public void onAdShowing() {
-        showToast("Showing SmartWall ad");
+    public void onAdExpanded() {
+
+    }
+
+    @Override
+    public void onAdClicked() {
+
     }
 
     @Override
@@ -250,31 +237,6 @@ public class MainActivity extends ActionBarActivity implements AdListener, EulaL
     private void showToast(String message) {
         Toast.makeText(this, message, Toast.LENGTH_SHORT).show();
 
-    }
-
-    @Override
-    public void onAdLoadingListener() {
-        showToast("Ad is loaading");
-    }
-
-    @Override
-    public void onAdLoadedListener() {
-        showToast("Ad  is loaded");
-    }
-
-    @Override
-    public void onCloseListener() {
-        showToast("Ad closed");
-    }
-
-    @Override
-    public void onAdExpandedListner() {
-        showToast("Ad onAdExpandedListner");
-    }
-
-    @Override
-    public void onAdClickedListener() {
-        showToast("Ad onAdClickedListener");
     }
 
     private class DrawerItemClickListener implements

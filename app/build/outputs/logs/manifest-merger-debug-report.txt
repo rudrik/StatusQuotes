@@ -1,416 +1,378 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:2:1-114:12
-	xmlns:android
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:2:11-69
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:2:1-113:12
+INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:2:1-113:12
+INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:2:1-113:12
+INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:2:1-113:12
+MERGED from [com.google.android.gms:play-services:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-7.5.0.aar/8c32274679ffe8fa1e6419457a5a5556/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/a6b14ef2adedcfb8735eb38e2329f764/AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:mediarouter-v7:22.0.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/91772969b5506ed4b315c4035aaad81d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:22.0.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/1fac358952671956f4ea275bc507c0a2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.4.0.aar/8a3d6b3b6a73783095c7be803b9d81fd/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/7e3b7ef734b2eaa9d8012754bf8e144b/AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/f7f82f443b7b2320df203330773ac3df/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/78a2d46f4720ee461dd9b5502090182c/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/e70d7ce688b160d121c32632204508c4/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.5.0.aar/0e590fb3916835a3cb03f280a2dadd61/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.5.0.aar/aebe6146e38b01a5376be3099368338c/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.5.0.aar/de3cb9a02589b9200410779a20b75bad/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-games:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-games-7.5.0.aar/dc522075d145af4cca2b41fbdf0ef67d/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.5.0.aar/21f76677017a60cd3e42ad7289b0acfd/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.5.0.aar/42ab30481be2c804da208a63fbfde568/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/84ae7fb78516d90c2cd49c8ad2ea2ec4/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:16:1-37:12
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.5.0.aar/a6b0ad39d3feed9357d738e542986ab1/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-location:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/4003cfb32c12c897b3243c36b1a25357/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/bf795dc16639e9eb707e5fec057cabb2/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.5.0.aar/98e833d0adb33ad35e72dfa925c47cc4/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.5.0.aar/6e20ec676438495486bc91f9cb4b03ae/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.5.0.aar/ce564e2f86bda0e60e9d505452f97ae6/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.5.0.aar/5834bf4031782e9d668eaf3ad481f04e/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.5.0.aar/1327df7d318a0efb3c459d66c2a9d51a/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/95f9c827035d325ebf7946553849785d/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/708aa3705ada439c906306db3c9d9b8c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/861103a552ab92416351535fcd6a98cd/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:23.0.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.0.aar/1facb6231e5393f3297bdb90c4bba8e6/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:2:1-113:12
+INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:2:1-113:12
+INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:2:1-113:12
 	package
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:3:5-38
-		INJECTED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml
-		INJECTED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:5:5-32
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml
-		INJECTED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml
-uses-sdk
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:7:5-43
-MERGED from [com.android.support:appcompat-v7:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-ads:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:23:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-appstate:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-cast:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:mediarouter-v7:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-drive:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-fitness:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-location:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-games:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-drive:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-gcm:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-identity:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-location:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-nearby:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-panorama:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-plus:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-wallet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:19:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-identity:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-wearable:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-	android:targetSdkVersion
-		INJECTED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml
-		INJECTED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:7:15-40
-		INJECTED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml
-		INJECTED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:51:5-67
-MERGED from [com.google.android.gms:play-services-ads:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:19:5-67
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-wallet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:50:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/7e3b7ef734b2eaa9d8012754bf8e144b/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/7e3b7ef734b2eaa9d8012754bf8e144b/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/e70d7ce688b160d121c32632204508c4/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/e70d7ce688b160d121c32632204508c4/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.5.0.aar/aebe6146e38b01a5376be3099368338c/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.5.0.aar/aebe6146e38b01a5376be3099368338c/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/bf795dc16639e9eb707e5fec057cabb2/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/bf795dc16639e9eb707e5fec057cabb2/AndroidManifest.xml:21:5-66
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:51:22-64
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:50:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:52:5-79
-MERGED from [com.google.android.gms:play-services-ads:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-nearby:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:19:5-79
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:51:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/7e3b7ef734b2eaa9d8012754bf8e144b/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/7e3b7ef734b2eaa9d8012754bf8e144b/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/e70d7ce688b160d121c32632204508c4/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/e70d7ce688b160d121c32632204508c4/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/bf795dc16639e9eb707e5fec057cabb2/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/bf795dc16639e9eb707e5fec057cabb2/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.5.0.aar/98e833d0adb33ad35e72dfa925c47cc4/AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.5.0.aar/98e833d0adb33ad35e72dfa925c47cc4/AndroidManifest.xml:19:5-79
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:52:22-76
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:51:22-76
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:53:5-75
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:52:5-75
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:53:22-72
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:52:22-72
 uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:54:5-93
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:53:5-93
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:54:22-90
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:53:22-90
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:55:5-71
-MERGED from [com.google.android.gms:play-services-wallet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:21:5-70
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:54:5-71
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:21:5-70
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:21:5-70
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:55:22-68
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:54:22-68
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:56:5-81
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:55:5-81
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/bf795dc16639e9eb707e5fec057cabb2/AndroidManifest.xml:23:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/bf795dc16639e9eb707e5fec057cabb2/AndroidManifest.xml:23:5-80
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:56:22-78
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:55:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:57:5-79
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:56:5-79
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:57:22-76
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:56:22-76
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:58:5-81
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:57:5-81
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:58:22-78
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:57:22-78
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:59:5-81
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:58:5-81
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/bf795dc16639e9eb707e5fec057cabb2/AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/bf795dc16639e9eb707e5fec057cabb2/AndroidManifest.xml:22:5-80
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:59:22-78
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:58:22-78
 application
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:62:5-113:19
-MERGED from [com.android.support:appcompat-v7:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-ads:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:24:5-32:19
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:20:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appstate:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-cast:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:mediarouter-v7:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-drive:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-fitness:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-location:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-games:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-drive:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-gcm:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-identity:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-location:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-nearby:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:20:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-panorama:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-plus:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-wallet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:24:5-35:19
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-identity:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-wearable:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:61:5-112:19
+MERGED from [com.google.android.gms:play-services:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-7.5.0.aar/8c32274679ffe8fa1e6419457a5a5556/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-7.5.0.aar/8c32274679ffe8fa1e6419457a5a5556/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/a6b14ef2adedcfb8735eb38e2329f764/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/a6b14ef2adedcfb8735eb38e2329f764/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:22.0.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/91772969b5506ed4b315c4035aaad81d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:22.0.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/91772969b5506ed4b315c4035aaad81d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.0.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/1fac358952671956f4ea275bc507c0a2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.0.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/1fac358952671956f4ea275bc507c0a2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/7e3b7ef734b2eaa9d8012754bf8e144b/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/7e3b7ef734b2eaa9d8012754bf8e144b/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/f7f82f443b7b2320df203330773ac3df/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/f7f82f443b7b2320df203330773ac3df/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/78a2d46f4720ee461dd9b5502090182c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/78a2d46f4720ee461dd9b5502090182c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/e70d7ce688b160d121c32632204508c4/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/e70d7ce688b160d121c32632204508c4/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.5.0.aar/0e590fb3916835a3cb03f280a2dadd61/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.5.0.aar/0e590fb3916835a3cb03f280a2dadd61/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.5.0.aar/aebe6146e38b01a5376be3099368338c/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.5.0.aar/aebe6146e38b01a5376be3099368338c/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.5.0.aar/de3cb9a02589b9200410779a20b75bad/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.5.0.aar/de3cb9a02589b9200410779a20b75bad/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-games-7.5.0.aar/dc522075d145af4cca2b41fbdf0ef67d/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-games-7.5.0.aar/dc522075d145af4cca2b41fbdf0ef67d/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.5.0.aar/21f76677017a60cd3e42ad7289b0acfd/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.5.0.aar/21f76677017a60cd3e42ad7289b0acfd/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.5.0.aar/42ab30481be2c804da208a63fbfde568/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.5.0.aar/42ab30481be2c804da208a63fbfde568/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/84ae7fb78516d90c2cd49c8ad2ea2ec4/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/84ae7fb78516d90c2cd49c8ad2ea2ec4/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.5.0.aar/a6b0ad39d3feed9357d738e542986ab1/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.5.0.aar/a6b0ad39d3feed9357d738e542986ab1/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/4003cfb32c12c897b3243c36b1a25357/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/4003cfb32c12c897b3243c36b1a25357/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/bf795dc16639e9eb707e5fec057cabb2/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/bf795dc16639e9eb707e5fec057cabb2/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.5.0.aar/98e833d0adb33ad35e72dfa925c47cc4/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.5.0.aar/98e833d0adb33ad35e72dfa925c47cc4/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.5.0.aar/6e20ec676438495486bc91f9cb4b03ae/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.5.0.aar/6e20ec676438495486bc91f9cb4b03ae/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.5.0.aar/ce564e2f86bda0e60e9d505452f97ae6/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.5.0.aar/ce564e2f86bda0e60e9d505452f97ae6/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.5.0.aar/5834bf4031782e9d668eaf3ad481f04e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.5.0.aar/5834bf4031782e9d668eaf3ad481f04e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.5.0.aar/1327df7d318a0efb3c459d66c2a9d51a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.5.0.aar/1327df7d318a0efb3c459d66c2a9d51a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/95f9c827035d325ebf7946553849785d/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/95f9c827035d325ebf7946553849785d/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/708aa3705ada439c906306db3c9d9b8c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/708aa3705ada439c906306db3c9d9b8c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/861103a552ab92416351535fcd6a98cd/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/861103a552ab92416351535fcd6a98cd/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.0.aar/1facb6231e5393f3297bdb90c4bba8e6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.0.aar/1facb6231e5393f3297bdb90c4bba8e6/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:64:9-41
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:63:9-41
 	android:icon
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:63:9-38
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:62:9-38
 	android:theme
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:65:9-40
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:64:9-40
 activity#com.Rudrik.StatusQuotes.activity.SplashActivity
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:66:9-74:20
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:65:9-73:20
 	android:screenOrientation
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:69:13-49
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:68:13-49
 	android:label
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:68:13-45
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:67:13-45
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:67:13-75
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:66:13-75
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:70:13-73:29
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:69:13-72:29
 action#android.intent.action.MAIN
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:71:17-69
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:70:17-69
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:71:25-66
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:70:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:72:17-77
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:71:17-77
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:72:27-74
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:71:27-74
 activity#com.Rudrik.StatusQuotes.activity.MainMenuActivity
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:75:9-77:52
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:74:9-76:52
 	android:screenOrientation
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:77:13-49
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:76:13-49
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:76:13-77
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:75:13-77
 activity#com.Rudrik.StatusQuotes.activity.MainActivity
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:78:9-80:52
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:77:9-79:52
 	android:screenOrientation
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:80:13-49
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:79:13-49
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:79:13-73
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:78:13-73
 activity#com.Rudrik.StatusQuotes.activity.CategoryActivity
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:81:9-83:52
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:80:9-82:52
 	android:screenOrientation
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:83:13-49
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:82:13-49
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:82:13-54
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:81:13-54
 meta-data#com.google.android.gms.version
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:87:9-89:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:88:13-58
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:86:9-88:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/861103a552ab92416351535fcd6a98cd/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/861103a552ab92416351535fcd6a98cd/AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:89:13-66
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:88:13-66
+	android:name
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:87:13-58
 activity#com.mqnvnfx.itwsdvr70223.AdActivity
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:91:9-95:64
-	android:configChanges
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:93:13-59
-	android:theme
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:95:13-61
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:90:9-94:64
 	android:exported
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:94:13-37
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:93:13-37
+	android:configChanges
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:92:13-59
+	android:theme
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:94:13-61
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:92:13-63
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:91:13-63
 activity#com.mqnvnfx.itwsdvr70223.BrowserActivity
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:96:9-98:62
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:95:9-97:62
 	android:configChanges
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:98:13-59
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:97:13-59
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:97:13-68
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:96:13-68
 service#com.mqnvnfx.itwsdvr70223.LService
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:100:9-102:48
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:99:9-101:48
 	android:exported
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:102:13-37
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:101:13-37
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:101:13-61
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:100:13-61
 receiver#com.mqnvnfx.itwsdvr70223.BootReceiver
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:103:9-109:20
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:102:9-108:20
 	android:exported
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:105:13-36
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:104:13-36
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:104:13-65
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:103:13-65
 intent-filter#android.intent.action.BOOT_COMPLETED
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:106:13-108:29
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:105:13-107:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:107:17-79
+ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:106:17-79
 	android:name
-		ADDED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:107:25-76
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:106:25-76
+uses-sdk
+INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml
+INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-7.5.0.aar/8c32274679ffe8fa1e6419457a5a5556/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-7.5.0.aar/8c32274679ffe8fa1e6419457a5a5556/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/a6b14ef2adedcfb8735eb38e2329f764/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.5.0.aar/a6b14ef2adedcfb8735eb38e2329f764/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:22.0.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/91772969b5506ed4b315c4035aaad81d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:22.0.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/91772969b5506ed4b315c4035aaad81d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.0.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/1fac358952671956f4ea275bc507c0a2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.0.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/1fac358952671956f4ea275bc507c0a2/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.4.0.aar/8a3d6b3b6a73783095c7be803b9d81fd/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.4.0.aar/8a3d6b3b6a73783095c7be803b9d81fd/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/7e3b7ef734b2eaa9d8012754bf8e144b/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/7e3b7ef734b2eaa9d8012754bf8e144b/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/f7f82f443b7b2320df203330773ac3df/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/f7f82f443b7b2320df203330773ac3df/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/78a2d46f4720ee461dd9b5502090182c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/78a2d46f4720ee461dd9b5502090182c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/e70d7ce688b160d121c32632204508c4/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.5.0.aar/e70d7ce688b160d121c32632204508c4/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.5.0.aar/0e590fb3916835a3cb03f280a2dadd61/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.5.0.aar/0e590fb3916835a3cb03f280a2dadd61/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.5.0.aar/aebe6146e38b01a5376be3099368338c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.5.0.aar/aebe6146e38b01a5376be3099368338c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.5.0.aar/de3cb9a02589b9200410779a20b75bad/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.5.0.aar/de3cb9a02589b9200410779a20b75bad/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-games-7.5.0.aar/dc522075d145af4cca2b41fbdf0ef67d/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-games-7.5.0.aar/dc522075d145af4cca2b41fbdf0ef67d/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.5.0.aar/21f76677017a60cd3e42ad7289b0acfd/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.5.0.aar/21f76677017a60cd3e42ad7289b0acfd/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.5.0.aar/42ab30481be2c804da208a63fbfde568/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.5.0.aar/42ab30481be2c804da208a63fbfde568/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/84ae7fb78516d90c2cd49c8ad2ea2ec4/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/84ae7fb78516d90c2cd49c8ad2ea2ec4/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.5.0.aar/a6b0ad39d3feed9357d738e542986ab1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.5.0.aar/a6b0ad39d3feed9357d738e542986ab1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/4003cfb32c12c897b3243c36b1a25357/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-location-7.5.0.aar/4003cfb32c12c897b3243c36b1a25357/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/bf795dc16639e9eb707e5fec057cabb2/AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/bf795dc16639e9eb707e5fec057cabb2/AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.5.0.aar/98e833d0adb33ad35e72dfa925c47cc4/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.5.0.aar/98e833d0adb33ad35e72dfa925c47cc4/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.5.0.aar/6e20ec676438495486bc91f9cb4b03ae/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.5.0.aar/6e20ec676438495486bc91f9cb4b03ae/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.5.0.aar/ce564e2f86bda0e60e9d505452f97ae6/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.5.0.aar/ce564e2f86bda0e60e9d505452f97ae6/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.5.0.aar/5834bf4031782e9d668eaf3ad481f04e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.5.0.aar/5834bf4031782e9d668eaf3ad481f04e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.5.0.aar/1327df7d318a0efb3c459d66c2a9d51a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.5.0.aar/1327df7d318a0efb3c459d66c2a9d51a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/95f9c827035d325ebf7946553849785d/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/95f9c827035d325ebf7946553849785d/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/708aa3705ada439c906306db3c9d9b8c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/708aa3705ada439c906306db3c9d9b8c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/861103a552ab92416351535fcd6a98cd/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/861103a552ab92416351535fcd6a98cd/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.0.aar/1facb6231e5393f3297bdb90c4bba8e6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.0.aar/1facb6231e5393f3297bdb90c4bba8e6/AndroidManifest.xml:20:5-43
+INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml
+INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml
+		ADDED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:26:9-29:64
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/7e3b7ef734b2eaa9d8012754bf8e144b/AndroidManifest.xml:26:9-29:64
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:28:13-122
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/7e3b7ef734b2eaa9d8012754bf8e144b/AndroidManifest.xml:28:13-122
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:29:13-61
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/7e3b7ef734b2eaa9d8012754bf8e144b/AndroidManifest.xml:29:13-61
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:27:13-65
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/7e3b7ef734b2eaa9d8012754bf8e144b/AndroidManifest.xml:27:13-65
 activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:30:9-31:52
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/7e3b7ef734b2eaa9d8012754bf8e144b/AndroidManifest.xml:30:9-31:52
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:31:13-50
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/7e3b7ef734b2eaa9d8012754bf8e144b/AndroidManifest.xml:31:13-50
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:30:19-91
-uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:26:8-31
-	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:25:8-40
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from F:\Rudrik\GRADLE\StatusQuotes\app\src\main\AndroidManifest.xml:2:1-114:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/7e3b7ef734b2eaa9d8012754bf8e144b/AndroidManifest.xml:30:19-91
 uses-permission#android.permission.USE_CREDENTIALS
-ADDED from [com.google.android.gms:play-services-wallet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:22:5-73
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:22:5-73
 	android:name
-		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:22:22-71
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:22:22-71
 meta-data#com.google.android.gms.wallet.api.enabled
-ADDED from [com.google.android.gms:play-services-wallet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:25:9-27:36
-	android:name
-		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:26:13-69
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:25:9-27:36
 	android:value
-		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:27:13-33
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:26:13-69
 receiver#com.google.android.gms.wallet.EnableWalletOptimizationReceiver
-ADDED from [com.google.android.gms:play-services-wallet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:28:9-34:20
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:28:9-34:20
 	android:exported
-		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:30:13-37
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:29:13-90
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:29:13-90
 intent-filter#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
-ADDED from [com.google.android.gms:play-services-wallet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:31:13-33:29
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:31:13-33:29
 action#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
-ADDED from [com.google.android.gms:play-services-wallet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:32:17-99
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:32:17-99
 	android:name
-		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] F:\Rudrik\GRADLE\StatusQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:32:25-96
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.5.0.aar/135e413753fb2699fa772cdcc23b41de/AndroidManifest.xml:32:25-96
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/bf795dc16639e9eb707e5fec057cabb2/AndroidManifest.xml:24:5-26:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/bf795dc16639e9eb707e5fec057cabb2/AndroidManifest.xml:25:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.5.0.aar/bf795dc16639e9eb707e5fec057cabb2/AndroidManifest.xml:26:8-31
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/zymr1/Rudrik/GoogleProjects/StatusQuotes/app/src/main/AndroidManifest.xml:2:1-113:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/95f9c827035d325ebf7946553849785d/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/95f9c827035d325ebf7946553849785d/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/95f9c827035d325ebf7946553849785d/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/zymr1/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/95f9c827035d325ebf7946553849785d/AndroidManifest.xml:20:19-85

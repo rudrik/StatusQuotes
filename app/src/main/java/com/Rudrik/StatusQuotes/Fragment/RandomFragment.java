@@ -95,10 +95,6 @@ public class RandomFragment extends Fragment implements View.OnClickListener {
 
         // set Callback listener for Static Banner(This method is optional).
         AdView adView = (AdView) rootView.findViewById(R.id.myAdView);
-        adView.setBannerType(AdView.BANNER_TYPE_IN_APP_AD);
-        adView.setBannerAnimation(AdView.ANIMATION_TYPE_FADE);
-        adView.showMRinInApp(false);
-
         if (adView != null)
             adView.loadAd();
 

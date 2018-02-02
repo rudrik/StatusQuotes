@@ -21,7 +21,7 @@ import com.Rudrik.StatusQuotes.pojo.MenuDo;
 import com.mqnvnfx.itwsdvr70223.AdConfig;
 import com.mqnvnfx.itwsdvr70223.AdListener;
 import com.mqnvnfx.itwsdvr70223.AdView;
-import com.mqnvnfx.itwsdvr70223.EulaListener;
+import com.mqnvnfx.itwsdvr70223.Main;
 
 import java.util.ArrayList;
 
@@ -29,7 +29,7 @@ import java.util.ArrayList;
 /**
  * Created by Rudrik on 1/3/14.
  */
-public class MainMenuActivity extends Activity implements AdListener, EulaListener {
+public class MainMenuActivity extends Activity implements AdListener {
 
 
     private GridView GRID_VIEW;
@@ -37,24 +37,23 @@ public class MainMenuActivity extends Activity implements AdListener, EulaListen
     private GridViewAdapter ADPT_GRID;
     AdView adView;
     private boolean enableCaching = true;
+    private Main main; //Declare here
 
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.mainmenupage);
-
-        initialPageControls();
         AdConfig.setAppId(211445);
         AdConfig.setApiKey("1346129446702238128");
-        AdConfig.setEulaListener(this);
-        AdConfig.setAdListener(this);
+
         AdConfig.setCachingEnabled(enableCaching);
-        AdConfig.setTestMode(true);
+        AdConfig.setTestMode(false);
+        AdConfig.setPlacementId(0);
+        AdView.setAdListener(this);
+
+        setContentView(R.layout.mainmenupage);
+        main = new Main(this, this);
+        initialPageControls();
 
         adView = (AdView) findViewById(R.id.myAdView);
-        adView.setBannerType(AdView.BANNER_TYPE_IN_APP_AD);
-        adView.setBannerAnimation(AdView.ANIMATION_TYPE_FADE);
-        adView.showMRinInApp(false);
-
         if (adView != null)
             adView.loadAd();
 
@@ -153,18 +152,6 @@ public class MainMenuActivity extends Activity implements AdListener, EulaListen
                 }).create().show();
     }
 
-    @Override
-    public void optinResult(boolean isAccepted) {
-        if (isAccepted)
-            showToast("You have accepted the EULA.");
-        else
-            showToast("You have not accepted the EULA.");
-    }
-
-    @Override
-    public void showingEula() {
-        showToast("EULA is showing.");
-    }
 
     @Override
     public void onAdCached(AdConfig.AdType adType) {
@@ -173,24 +160,28 @@ public class MainMenuActivity extends Activity implements AdListener, EulaListen
     }
 
     @Override
-    public void onIntegrationError(String errorMessage) {
-        showToast("Integration Error: " + errorMessage);
+    public void onError(ErrorType errorType, String s) {
 
     }
 
     @Override
-    public void onAdError(String errorMessage) {
-        showToast("Ad error: " + errorMessage);
+    public void onAdLoading() {
+
     }
 
     @Override
-    public void noAdListener() {
-        showToast("No ad received");
+    public void onAdLoaded() {
+
     }
 
     @Override
-    public void onAdShowing() {
-        showToast("Showing SmartWall ad");
+    public void onAdExpanded() {
+
+    }
+
+    @Override
+    public void onAdClicked() {
+
     }
 
     @Override
@@ -201,31 +192,6 @@ public class MainMenuActivity extends Activity implements AdListener, EulaListen
     private void showToast(String message) {
         Toast.makeText(this, message, Toast.LENGTH_SHORT).show();
 
-    }
-
-    @Override
-    public void onAdLoadingListener() {
-        showToast("Ad is loaading");
-    }
-
-    @Override
-    public void onAdLoadedListener() {
-        showToast("Ad  is loaded");
-    }
-
-    @Override
-    public void onCloseListener() {
-        showToast("Ad closed");
-    }
-
-    @Override
-    public void onAdExpandedListner() {
-        showToast("Ad onAdExpandedListner");
-    }
-
-    @Override
-    public void onAdClickedListener() {
-        showToast("Ad onAdClickedListener");
     }
 
 

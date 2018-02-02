@@ -2,10 +2,10 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 22
-    buildToolsVersion "23.0.0"
+    buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "com.Rudrik.StatusQuotes"
-        minSdkVersion 15
+        minSdkVersion 19
         targetSdkVersion 22
     }
     buildTypes {
@@ -24,4 +24,5 @@ dependencies {
     compile 'com.google.android.gms:play-services:7.5.0'
     compile files('libs/myjar.jar')
     compile files('libs/myjson-1.5.jar')
+    compile 'com.google.android.gms:play-services-ads:9.4.0'
 }
